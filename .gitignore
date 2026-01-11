@@ -1,2 +1,12 @@
-ngrok.exe
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
 venv/
+
+# Environment variables
+.env
+
+# Local binaries
+ngrok.exe
